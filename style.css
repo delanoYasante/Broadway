@@ -1,11 +1,11 @@
 *{
   font-family: Helvetica;
   text-align: center;
-  backgroun-color: white;
+  background-color: white
 }
 
-.title{
+h1{
   font-size: 70px;
   font-weight: bold;
-  color: white;
+  color: black;
 }
