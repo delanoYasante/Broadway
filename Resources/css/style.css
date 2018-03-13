@@ -1,0 +1,11 @@
+*{
+  font-family: Helvetica;
+  text-align: center;
+  backgroun-color: white;
+}
+
+.title{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
