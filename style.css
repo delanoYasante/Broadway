@@ -9,6 +9,7 @@ h1{
   color: white;
 }
 
+<<<<<<< HEAD
 h2{
   font-size: 32px;
   font-weight: bold;
@@ -43,4 +44,8 @@ h6{
 
 #Process{
 
+=======
+.top{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+>>>>>>> 0267f31f693714fb48a9b5993d68eac6f5e21cc1
 }
